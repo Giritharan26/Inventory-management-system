@@ -7,7 +7,8 @@ Sample inventory management system for Fruits shop
 ## Buy a multiple product
 <img src="./Output/Capture2.PNG">
 
-## if you buy above quantity or unkown product id
+## added condition statement, if the no of qty above existing qty
+
 <img src="./Output/Capture3.PNG">
 
 
